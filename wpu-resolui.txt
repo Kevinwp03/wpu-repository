@@ -5,6 +5,7 @@ RESEP NASI GORENG :
 - Bawang putih
 - Garam 
 - Penyedap rasa 
-- Kecap ikan 
+- Kecap
 - Merica secukupnya
 - Daun bawang 
+- Minyak
